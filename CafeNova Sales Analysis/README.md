@@ -16,7 +16,6 @@ The project was completed as the final project of the **Learn with George** data
 ## 📁 Data Source
 - **Dataset**: Raw restaurant order data supplied with the Learn with George final project brief (fictional restaurant chain scenario)
 - **Workbook**: `CafeNova_David_Solomon_Dashboard.xlsx`, with sheets *Raw Data*, *Cleaned data1*, *Pivot Table* and *DashBoard*
-- **Presentation**: `CafeNova_Insights_David_Solomon.pptx`
 
 - **Raw records**: 17,541 rows (including 3 blank rows)
 - **Cleaned records**: 17,104 orders
@@ -101,7 +100,7 @@ Raw data compared with the cleaned sheet shows these steps:
 ---
 
 ## 🧩 Interactive Dashboard Features
-![CafeNova Sales Performance Analysis dashboard](images/dashboard.jpeg)
+![CafeNova Sales Performance Analysis dashboard](https://github.com/Davidsmeek/Data-Analysis/blob/main/CafeNova%20Sales%20Analysis/images/Dashboard.png)
 
 The one-page dashboard includes:
 - **KPI cards**: Revenue, Orders, Customers, Best-Selling Item
