@@ -15,7 +15,7 @@ The project was completed as the final project of the **Learn with George** data
 
 ## 📁 Data Source
 - **Dataset**: Raw restaurant order data supplied with the Learn with George final project brief (fictional restaurant chain scenario)
-- **Workbook**: `CafeNova_David_Solomon_Dashboard.xlsx`, with sheets *Raw Data*, *Cleaned data1*, *Pivot Table* and *DashBoard*
+- **Workbook**: `CafeNova.xlsx`, with sheets *Raw Data*, *Cleaned data1*, *Pivot Table* and *DashBoard*
 
 - **Raw records**: 17,541 rows (including 3 blank rows)
 - **Cleaned records**: 17,104 orders
