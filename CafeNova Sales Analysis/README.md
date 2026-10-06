@@ -144,8 +144,7 @@ CafeNova earned **$340,617.50** from **17,104 orders** over two years. **Main Di
 ---
 
 ## 📁 Additional Assets
-- 📊 Excel dashboard with slicers by Category and Year: `CafeNova_David_Solomon_Dashboard.xlsx`
-- 🖥️ Insights presentation: `CafeNova_Insights_David_Solomon.pptx`
+- 📊 Excel dashboard with slicers by Category and Year: `CafeNova.xlsx`
 
 ---
 
