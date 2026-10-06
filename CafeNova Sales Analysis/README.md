@@ -9,7 +9,6 @@ The project was completed as the final project of the **Learn with George** data
 
 ## 🛠️ Tools & Technologies
 - **Microsoft Excel**: Data cleaning, calculated columns, pivot tables, pivot charts, slicers and the dashboard
-- **Microsoft PowerPoint**: Insights and recommendations deck
 
 ---
 
