@@ -14,7 +14,7 @@ This group project (team of 9) analyses how each campaign performed on cost and 
 ---
 
 ## 📁 Data Source
-- **File**: `Marketing_Team_Data_with_graphs.xlsx` (sheet *Sheet1*)
+- **File**: `Superhero_U_Campaign.xlsx` 
 - **Records**: 33 rows, one per campaign and age group
 - **Campaigns**: 11, in 11 geographies (Group 1, Group 2, Australia, Canada, Ghana, India, Nepal, Nigeria, UAE, UK, USA)
 - **Audiences**: Students (Campaigns 2–11) and Educators and Principals (Campaign 1)
@@ -148,8 +148,8 @@ Across 11 campaigns and ₹12,088.61 of spend, results were uneven. **Campaigns 
 ---
 
 ## 📁 Additional Assets
-- 📊 Campaign data and charts: `Marketing_Team_Data_with_graphs.xlsx`
-- 🖥️ Team presentation: `Superhero_U_Campaign_Analysis.pptx`
+- 📊 Campaign data and charts: `Superhero_U_Campaign.xlsx`
+- 🖥️ Team presentation: `Superhero_U_Campaign_Presentation.pptx`
 
 ---
 
